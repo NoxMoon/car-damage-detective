@@ -16,6 +16,8 @@ pandas = "*"
 tensorflow = "==1.5"
 torch = "*"
 torchvision = "*"
+h5py = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.6"
