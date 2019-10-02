@@ -1,3 +1,5 @@
 .DS_Store
 .ipynb_checkpoints
 car-damage-dataset
+car-damage-dataset.tar.gz
+vgg16_weights.h5
