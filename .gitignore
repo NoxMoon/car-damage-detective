@@ -1,5 +1,9 @@
 .DS_Store
 .ipynb_checkpoints
+__pycache__
+root_image
+sample
+sample_out
 car-damage-dataset
 car-damage-dataset.tar.gz
 vgg16_weights.h5

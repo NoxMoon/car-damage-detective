@@ -19,6 +19,8 @@ torchvision = "*"
 h5py = "*"
 tqdm = "*"
 boto3 = "*"
+mxnet = "*"
+opencv-python = "*"
 
 [requires]
 python_version = "3.6"
