@@ -18,6 +18,7 @@ torch = "*"
 torchvision = "*"
 h5py = "*"
 tqdm = "*"
+boto3 = "*"
 
 [requires]
 python_version = "3.6"
