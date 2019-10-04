@@ -4,6 +4,7 @@ __pycache__
 root_image
 sample
 sample_out
+sample_out_aws
 car-damage-dataset
 car-damage-dataset.tar.gz
 vgg16_weights.h5
