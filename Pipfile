@@ -21,6 +21,7 @@ tqdm = "*"
 boto3 = "*"
 mxnet = "*"
 opencv-python = "*"
+scikit-image = "*"
 
 [requires]
 python_version = "3.6"
